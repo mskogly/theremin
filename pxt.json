@@ -1,5 +1,5 @@
 {
-    "name": "theremin",
+    "name": "micro:bit theremin",
     "description": "",
     "dependencies": {
         "core": "*",
